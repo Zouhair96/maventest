@@ -1,5 +1,7 @@
 package org.exemple.demo;
 
+import org.apache.commons.lang3.StringUtils;
+
 public class App {
     
     public App() {
