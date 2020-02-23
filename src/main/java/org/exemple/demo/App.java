@@ -1,6 +1,5 @@
 package org.exemple.demo;
 
-import org.apache.commons.lang3.StringUtils;
 
 public class App {
     
@@ -11,6 +10,6 @@ public class App {
     // method main(): ALWAYS the APPLICATION entry point
     public static void main (String[] args) {
     	System.out.println ("Hello Zouhair Again");
-	App app = new App();
+	
     }
 }
